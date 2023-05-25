@@ -5,7 +5,7 @@ public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
         int t = scanner.nextInt();
-        int n;
+        int n=0;
         
         int[] output = new int[11]; 
         output[1] = 1; 
